@@ -1,0 +1,9 @@
+{
+	"name": "LnFDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d09a4149-5f71-4380-8a80-f1c86cf70ee9",
+		"tenantId": "15b662bb-2057-4659-b441-8309338a4aea"
+	}
+}
